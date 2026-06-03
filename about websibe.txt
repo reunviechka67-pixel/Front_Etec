@@ -1,0 +1,5 @@
+Website
+1.stutic website 
+ គឺជាវេបសាយដែលស្ថិត​នៅក្នុង Front 
+2.Dynamic website
+ គឺជាវេបសាយដែលស្ថិតនៅក្នុង Back End អាចកែទិន្ន័យនៅលើ Webpage បាន។

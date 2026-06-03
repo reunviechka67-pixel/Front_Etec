@@ -1,0 +1,10 @@
+Website
+
+Note Website have two such as stutic Websibe and Dynamic Website. 
+
+for stutic website it is like front end website and Website Design
+for Dynamic Website it is like back end Website 
+
+1.stutic website 
+ គឺជាវេបសាយដែលស្ថិត​នៅក្នុង Front End ហើយមិនអាចកែប្រែបាននៅលើ Webpage ប្រសិនបើចង់កែរទិន្ន័យលុះត្រាតែយើងចូលទៅកែនៅក្នុងកូដ។
+2.Dynamic website គឺជាវេបសាយដែលស្ថិតនៅក្នុង Back End អាចកែទិន្ន័យនៅលើ Webpage បាន។
